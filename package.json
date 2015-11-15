@@ -1,0 +1,29 @@
+{
+  "name": "tokimon-cv",
+  "version": "1.0.0",
+  "description": "My online CV",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-nunjucks-render": "^1.0.0",
+    "gulp-stylus": "^2.1.0",
+    "yamljs": "^0.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Tokimon@github.com/Tokimon/CV.git"
+  },
+  "keywords": [
+    "CV",
+    "Toke",
+    "Voltelen"
+  ],
+  "author": "Toke Voltelen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tokimon/CV/issues"
+  },
+  "homepage": "https://github.com/Tokimon/CV#readme"
+}

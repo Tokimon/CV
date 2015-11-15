@@ -1,0 +1,38 @@
+Programming Languages:
+  JavScript: 5
+  CSS/SASS/Stylus: 5
+  HTML: 5
+  ASP.NET (C#): 3
+  PHP: 3
+
+Databases:
+  MongoDB: 3
+  MySQL: 3
+  MS SQL: 3
+
+APIs:
+  jQuery: 5
+  GSAP (TweenMax): 3
+  Grunt/Gulp: 5
+  Node.js: 4
+  Sails (Nodejs MVC): 4
+  Angular: 3
+  Twitter Bootstrap: 4
+
+CMS:
+  Sitecore: 2
+  Joomla!: 2
+  Sharepoint: 2
+  Wordpress: 2
+
+Automated testing:
+  Mocha: 5
+  Chai: 4
+  Sinon: 4
+  Knock: 2
+  Cucumber: 2
+  Nightwatch: 4
+
+Agile Development Methods:
+  SCRUM: 3
+  KANBAN: 3
