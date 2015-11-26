@@ -1,0 +1,11 @@
+{% from 'graph/graph.html' import graph %}
+
+<aricle class="skills">
+	<h2>Skills</h2>
+	{% for area, values in skills %}
+	<section class="skills__area">
+		<h3>{{ area }}</h3>
+		{{ graph(values) }}
+	</section>
+	{% endfor %}
+</aricle>

@@ -1,0 +1,10 @@
+{% macro graph(list) %}
+<ul class="graph">
+	{% for item in list %}
+	<li class="graph__item">
+		<p class="graph__text {{ item.cn }}">{{ item.text }}</p>
+		<span class="graph__indicator--size-{{ item.rating }}"></span>
+	</li>
+	{% endfor %}
+</ul>
+{% endmacro %}
